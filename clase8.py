@@ -1,6 +1,5 @@
 import numpy as np
 
-escalar = 5.679
 vector = np.array([2, 3])
 matrix = np.array([[1, 2], [3, 4], [5, 6]])
 
